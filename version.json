@@ -1,12 +1,12 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "min_required_version": "0.7.14",
   "kind": "patch",
-  "patch_url": "",
-  "sha256": "",
-  "size": 0,
-  "notes": "ERMS 정식 버전 1.0.0 출시",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases-prod/releases/download/v1.0.1/ERMS-1.0.1-patch.zip.enc",
+  "sha256": "e1258cdbddf37c94566af983a39fae4794ce22ec5d6586f2bbf0ef36fdfeecda",
+  "size": 1533567,
+  "notes": "정식 버전에서도 설정 > 서버 정보에서 시트를 함께 볼 사람을 추가·변경·삭제할 수 있습니다",
   "download_url": "",
-  "enc": "",
-  "published_at": "2026-11-09T10:52:45"
+  "enc": "aesgcm-sym-v1",
+  "published_at": "2026-11-09T11:13:46"
 }
