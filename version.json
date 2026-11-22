@@ -1,12 +1,12 @@
 {
-  "version": "1.0.1",
+  "version": "1.1.2",
   "min_required_version": "0.7.14",
   "kind": "patch",
-  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases-prod/releases/download/v1.0.1/ERMS-1.0.1-patch.zip.enc",
-  "sha256": "e1258cdbddf37c94566af983a39fae4794ce22ec5d6586f2bbf0ef36fdfeecda",
-  "size": 1533567,
-  "notes": "정식 버전에서도 설정 > 서버 정보에서 시트를 함께 볼 사람을 추가·변경·삭제할 수 있습니다",
+  "patch_url": "https://github.com/P0TaTos/Q-ERMS-releases-prod/releases/download/v1.1.2/ERMS-1.1.2-patch.zip.enc",
+  "sha256": "37e5199a400250e23e2e0ede104f9aaff2abc390f74abbdb830552d96ffba3ac",
+  "size": 1623597,
+  "notes": "권한 역할 직접 만들기(장비 사용자 등), 연속 대여 시 요청 한도 초과 수정, 권한 추가를 공유 계정 목록에서 고르기, 계정 권한 되돌리기 방지",
   "download_url": "",
   "enc": "aesgcm-sym-v1",
-  "published_at": "2026-11-09T11:13:46"
+  "published_at": "2026-11-22T12:01:12"
 }
